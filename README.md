@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋 I'm Gastón 🐼</h1>
+
 ### 💻 I'm a Front-end Developer and Engineering Student  
 - I’m currently working on Aplication web 
 - I’m currently learning Node.js, express js
@@ -33,3 +34,4 @@
 <a href="https://www.facebook.com/gdcode7" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://twitter.com/_gdcode7" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231ED760.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://dev.to/_gdcode7" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+
